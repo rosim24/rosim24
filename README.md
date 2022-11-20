@@ -1,3 +1,5 @@
+![rosim24](Hello World!.gif)
+
 ### Hi there 👋
 
 <!--
