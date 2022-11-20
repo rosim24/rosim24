@@ -1,4 +1,4 @@
-![rosim24](Hello World!.gif)
+![rosim24](Hello world!.gif)
 
 ### Hi there 👋
 
